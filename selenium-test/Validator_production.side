@@ -157,17 +157,6 @@
       ],
       "value": ""
     }, {
-      "id": "ef7f9cdb-aba9-4815-8fd0-ad9ba3876848",
-      "comment": "",
-      "command": "click",
-      "target": "css=#metadata-advanced-options-content > .ecl-form-group:nth-child(3) > .ecl-checkbox:nth-child(4) .ecl-checkbox__box",
-      "targets": [
-        ["css=#metadata-advanced-options-content > .ecl-form-group:nth-child(3) > .ecl-checkbox:nth-child(4) .ecl-checkbox__box", "css:finder"],
-        ["xpath=//div[@id='metadata-advanced-options-content']/fieldset[3]/div[3]/label/span", "xpath:idRelative"],
-        ["xpath=//fieldset[3]/div[3]/label/span", "xpath:position"]
-      ],
-      "value": ""
-    }, {
       "id": "e580e39c-f1ff-4fba-92d5-9014a078c234",
       "comment": "",
       "command": "click",
